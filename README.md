@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=header"/>
 
 <h1 align="center">👋 Hello, I'm Vinicius Sotero – Full Stack Developer</h1>
-<p align="center">Crafting code and solving problems, one project at a time 🚀</p>
+<p align="center">Crafting code and solving problems. 🚀</p>
 
 <!-- Animação deslizante das linguagens -->
 <p align="center">
