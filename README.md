@@ -2,12 +2,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=header"/>
 
 <h1 align="center">👋 Hello, I'm Vinicius Sotero</h1>
+
+<!-- Animação deslizante das linguagens -->
 <p align="center">
-  🚀 <strong>Full Stack Developer</strong> | TypeScript | React.js | Next.js | Node.js | Express.js | Python | PHP | MySQL | MongoDB | Git & GitHub | Postman
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D0DE8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;TypeScript+|+React.js+|+Next.js+|+Node.js;Express.js+|+Python+|+PHP;MySQL+|+MongoDB+|+Git+%26+GitHub+|+Postman" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I'm looking for new challenges and opportunities to grow as a developer.  
+  🚀 I'm looking for new challenges and opportunities to grow as a developer.  
   Here you’ll find some of my specialties and what I’m passionate about.
 </p>
 
@@ -36,8 +40,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logo=apple&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 <div align="center">
@@ -78,3 +81,4 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=footer"/>
+
