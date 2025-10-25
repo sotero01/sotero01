@@ -1,7 +1,8 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=header"/>
 
-<h1 align="center">👋 Hello, I'm Vinicius Sotero</h1>
+<h1 align="center">👋 Hello, I'm Vinicius Sotero – Full Stack Developer</h1>
+<p align="center">Crafting code and solving problems, one project at a time 🚀</p>
 
 <!-- Animação deslizante das linguagens -->
 <p align="center">
@@ -44,7 +45,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Developer at work"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/14761080/media/aa0c1a3ef48c246cbf2f1d2ed3e8c8d0.gif" width="400px" alt="Minimal MacBook workspace"/>
 </div>
 
 ---
@@ -52,8 +53,8 @@
 ## 🌀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotero&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotero&layout=compact&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotero&show_icons=true&theme=tokyonight" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotero&layout=compact&theme=tokyonight" height="140px"/>
 </div>
 
 ---
