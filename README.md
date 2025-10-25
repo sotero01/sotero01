@@ -1,6 +1,6 @@
 <!-- Animated headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D0DE8&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+TypeScript+%7C+React.js+%7C+Next.js;⚙️+Node.js+%7C+Express.js;🐍+Python+%7C+PHP;🗄️+MySQL+%7C+MongoDB;🧰+Git+%7C+GitHub+%7C+Postman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D0DE8&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+TypeScript+%7C+React.js+%7C+Next.js;⚙️+Node.js+%7C+Express.js;🐍+Python+%7C+PHP;🗄️+MySQL+%7C+MongoDB;🧰+Git+%7C+GitHub+%7C+Postman" alt="Typing SVG" />
 </p>
 
 &nbsp;
@@ -25,8 +25,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+min-width="400px" max-width="400px" width="400px" align="right" alt="Developer illustration">
 
 ### 🗄️ Databases:
 
@@ -38,6 +38,19 @@ min-width="400px" max-width="400px" width="400px" align="right" alt="Computer il
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## 📊 GitHub 3D Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinicius-sotero/vinicius-sotero/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions Graph" width="100%">
+</p>
+
+> ⚡ Este gráfico 3D é atualizado automaticamente conforme suas contribuições no GitHub crescem.  
+> Se o arquivo ainda não existir, você pode gerar ele em:  
+> 👉 [github.com/yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 &nbsp;
 &nbsp;
