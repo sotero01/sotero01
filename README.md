@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=header"/>
 
 <h1 align="center">👋 Hello, I'm Vinicius Sotero – Full Stack Developer</h1>
-<p align="center">Crafting code and solving problems. 🚀</p>
+<p align="center">Crafting code and solving problems, one project at a time 🚀</p>
 
 <!-- Animação deslizante das linguagens -->
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 <div align="center">
-  <!-- GIF minimalista de MacBook -->
+  <!-- GIF minimalista de MacBook animado -->
   <img src="https://cdn.dribbble.com/users/179887/screenshots/12345678/macbook-code-animation.gif" width="400px" alt="Minimal MacBook workspace"/>
 </div>
 
