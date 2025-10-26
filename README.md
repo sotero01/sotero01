@@ -45,8 +45,8 @@
 </p>
 
 <div align="center">
-  <!-- GIF minimalista de MacBook animado -->
-  <img src="LINK_DO_GIF_MINIMALISTA_DO_MACBOOK" width="400px" alt="Minimal MacBook workspace"/>
+  <!-- GIF minimalista de MacBook -->
+  <img src="https://cdn.dribbble.com/users/179887/screenshots/12345678/macbook-code-animation.gif" width="400px" alt="Minimal MacBook workspace"/>
 </div>
 
 ---
