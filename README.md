@@ -1,10 +1,8 @@
-<!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0de8&height=120&section=header"/>
 
 <h1 align="center">👋 Hello, I'm Vinicius Sotero – Full Stack Developer</h1>
 <p align="center">Crafting code and solving problems. 🚀</p>
 
-<!-- Animação deslizante das linguagens -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D0DE8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;TypeScript+|+React.js+|+Next.js+|+Node.js;Express.js+|+Python+|+PHP;MySQL+|+MongoDB+|+Git+%26+GitHub+|+Postman" alt="Typing SVG" />
@@ -44,18 +42,13 @@
   <img src="https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
-<div align="center">
-  <!-- GIF minimalista de MacBook animado -->
-  <img src="https://cdn.dribbble.com/users/179887/screenshots/12345678/macbook-code-animation.gif" width="400px" alt="Minimal MacBook workspace"/>
-</div>
-
 ---
 
 ## 🌀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotero&show_icons=true&theme=tokyonight" height="140px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotero&layout=compact&theme=tokyonight" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sotero01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotero01&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </div>
 
 ---
@@ -63,7 +56,7 @@
 ## 🧩 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/master/docs/3d-contrib.gif?raw=true" width="700px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotero01&theme=tokyonight" width="800px"/>
 </div>
 
 ---
