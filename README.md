@@ -46,17 +46,17 @@
 
 ## 🌀 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sotero01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170px" alt="Stats de sotero01"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotero01&layout=compact&theme=tokyonight&hide_border=true" height="170px" alt="Linguagens de sotero01"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sotero01&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotero01&layout=compact&theme=tokyonight" height="170px" />
+</p>
 
 ---
 
 ## 🧩 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotero01&theme=tokyonight" width="800px" alt="Gráfico 3D de sotero01"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotero01&theme=tokyonight" width="800px"/>
 </div>
 
 ---
